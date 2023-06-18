@@ -1,6 +1,6 @@
 # API URL Shortener Microservice
 
-<img src = "images/url.png"> 
+<img src = "images/url.png" width = 500 > 
 
 ## Assignment
 
